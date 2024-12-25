@@ -1,7 +1,3 @@
-# Train Delivery System - BigPay Technical Assessment
-
-First and foremost, I would like to express my sincere gratitude to BigPay for shortlisting me as a candidate for the Backend Developer position. I am excited about the opportunity to potentially join your innovative team.
-
 ## Project Overview
 This project implements an optimized train delivery system that manages the transportation of packages between different stations through a railway network. The system calculates efficient routes for trains to pick up and deliver packages while considering various constraints like train capacity and journey times.
 
