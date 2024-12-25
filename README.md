@@ -74,9 +74,3 @@ The system uses a greedy approach to solve the delivery problem:
 ```python bigpay.py```
 2. Follow the prompts to input the required data
 3. The program will output the optimal delivery schedule
-
-## License
-This project is created as part of BigPay's technical assessment process.
-
----
-Thank you again to BigPay for this opportunity. I look forward to discussing this implementation and potential improvements during our technical discussion. If you have any questions or need further clarification, please don't hesitate to reach out.
